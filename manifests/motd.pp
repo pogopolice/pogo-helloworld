@@ -3,6 +3,6 @@ class helloworld::motd {
    owner  => 'root',
    group  => 'root',
    mode    => '0644',
-   content => "hello, world!\nFirst dev commit\n\n",
+   content => "hello, world!\nDevelopment branch check\n",
    }
 }
